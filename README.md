@@ -19,6 +19,14 @@ It also provides **improvement suggestions** by identifying missing keywords.
 ---
 
 ## 📁 Folder Structure
+📁 AI-Resume-Ranking-System  
+ ┣ 📁 resumes               # Folder to store uploaded resumes  
+ ┣ 📁 job_descriptions      # Folder to store job descriptions  
+ ┣ 📁 models                # (Optional) Folder for saving ML models  
+ ┣ 📄 app.py                # Main Streamlit application  
+ ┣ 📄 requirements.txt      # Dependencies  
+ ┣ 📄 README.md             # Project documentation  
+ ┣ 📄 .gitignore            # Git ignore file  
+ ┣ 📄 config.py             # Configuration settings (optional)  
+ ┗ 📄 utils.py              # Utility functions  
 
-
-..
